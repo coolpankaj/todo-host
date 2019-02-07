@@ -10,7 +10,7 @@ We can generate **dist** folder using following command.
 
 - **ng build --prod** generates build version of app for hosting puposes.
 - It uses **AOT(Ahead Of Time)** compilation technique to make app more easily accessible.
-- **AOT** also helps to resuce load time of app.
+- **AOT** also helps to reduce load time of app.
 
 ## Documentation
 
